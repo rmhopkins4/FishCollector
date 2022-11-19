@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: b03146423f3a9c148a6a0b4ba68d0a6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4435334104148856524
+    second: lavender_WideTall
+  - first:
+      213: -4489724083517805324
+    second: lavender_MidTall
+  - first:
+      213: 4419974518024125903
+    second: Lavender_ThinTall
+  - first:
+      213: -8715043898341333844
+    second: lavender_Hamburger
+  - first:
+      213: -619189370540296596
+    second: lavender_Pause
+  - first:
+      213: 7077112902393481207
+    second: lavender_Play
+  - first:
+      213: -6420947989494951905
+    second: lavender_WideMid
+  - first:
+      213: 8169698190841039992
+    second: lavender_MidMid
+  - first:
+      213: -528387668099240587
+    second: lavender_ThinMid
+  - first:
+      213: 3108092097718375554
+    second: purple_Hamburger
+  - first:
+      213: 8624538062687236713
+    second: purple_Pause
+  - first:
+      213: 4147205410010922758
+    second: purple_Play
+  - first:
+      213: 4790903642251894591
+    second: lavender_WideShort
+  - first:
+      213: -3826950041891087329
+    second: lavender_MidShort
+  - first:
+      213: -4166166389633172351
+    second: lavender_ThinShort
+  - first:
+      213: -6128507345828837781
+    second: pink_Hamburger
+  - first:
+      213: 7455788381247581705
+    second: pink_Pause
+  - first:
+      213: -7208834254087060906
+    second: pink_Play
+  - first:
+      213: 8386500813135294459
+    second: lavender_PlayNoBG
+  - first:
+      213: -2467511404916570190
+    second: purple_WideTall
+  - first:
+      213: 92385280027968987
+    second: purple_MidTall
+  - first:
+      213: -5089442725217459324
+    second: purple_ThinTall
+  - first:
+      213: 8721768383415228986
+    second: purple_PlayNoBG
+  - first:
+      213: 6759549664462470656
+    second: purple_WideMid
+  - first:
+      213: -667737081230087308
+    second: purple_MidMid
+  - first:
+      213: 8937462578614827589
+    second: purple_ThinMid
+  - first:
+      213: -3081272775065354781
+    second: pink_PlayNoBG
+  - first:
+      213: 5492425995368871420
+    second: purple_WideShort
+  - first:
+      213: -4214786776816188914
+    second: purple_MidShort
+  - first:
+      213: -4652745751061675807
+    second: purple_ThinShort
+  - first:
+      213: 2938794374820822864
+    second: pink_WideTall
+  - first:
+      213: 7920462529098606854
+    second: pink_MidTall
+  - first:
+      213: 332683497371467529
+    second: pink_ThinTall
+  - first:
+      213: 2370623345516362972
+    second: pink_WideMid
+  - first:
+      213: 2739152520587359478
+    second: pink_MidMid
+  - first:
+      213: -4450876376494209916
+    second: pink_ThinMid
+  - first:
+      213: -8579895548628939775
+    second: pink_WideShort
+  - first:
+      213: -8107976669142209063
+    second: pink_MidShort
+  - first:
+      213: 2533832983801907040
+    second: pink_ThinShort
+  - first:
+      213: -8226562715685403621
+    second: progressBar1
+  - first:
+      213: -8404640791836437736
+    second: progressBar2
+  - first:
+      213: -1896278123556545795
+    second: lavender_HamburgerNoBG
+  - first:
+      213: -5850364590574101979
+    second: purple_HamburgerNoBG
+  - first:
+      213: -1277915640664550363
+    second: pink_HamburgerNoBG
+  - first:
+      213: -694551719290102937
+    second: lavender_PauseNoBG
+  - first:
+      213: 455956871805819263
+    second: pink_PauseNoBG
+  - first:
+      213: 2958534543486115496
+    second: purple_PauseNoBG
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lavender_WideTall
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2970
+        width: 559
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccec7f94ed87d8d30800000000000000
+      internalID: 4435334104148856524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavender_MidTall
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2973
+        width: 390
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fca76ecbbb41b1c0800000000000000
+      internalID: -4489724083517805324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lavender_ThinTall
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2974
+        width: 245
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd3b17f767e65d30800000000000000
+      internalID: 4419974518024125903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavender_Hamburger
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 3014
+        width: 200
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4ed6dafb1fd0780800000000000000
+      internalID: -8715043898341333844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavender_Pause
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 3017
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c667f305c823867f0800000000000000
+      internalID: -619189370540296596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavender_Play
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 3014
+        width: 198
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f74f7640b4f63260800000000000000
+      internalID: 7077112902393481207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavender_WideMid
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2730
+        width: 559
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1015ecb2d534e6a0800000000000000
+      internalID: -6420947989494951905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavender_MidMid
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2733
+        width: 390
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c4b3b3839906170800000000000000
+      internalID: 8169698190841039992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavender_ThinMid
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 2736
+        width: 245
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d6f33273acaa8f0800000000000000
+      internalID: -528387668099240587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_Hamburger
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 2794
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284d3b5ab49222b20800000000000000
+      internalID: 3108092097718375554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_Pause
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 2799
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962fe4a5ca380b770800000000000000
+      internalID: 8624538062687236713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_Play
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 2798
+        width: 198
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f774af855dd8930800000000000000
+      internalID: 4147205410010922758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavender_WideShort
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2543
+        width: 559
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f9c85ba75bc7240800000000000000
+      internalID: 4790903642251894591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavender_MidShort
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2546
+        width: 390
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c5ae38631f3eac0800000000000000
+      internalID: -3826950041891087329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavender_ThinShort
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 2549
+        width: 245
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c3ebeedbdce26c0800000000000000
+      internalID: -4166166389633172351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_Hamburger
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 2576
+        width: 200
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6600880a0b23faa0800000000000000
+      internalID: -6128507345828837781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_Pause
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 2579
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e2fb0c708487760800000000000000
+      internalID: 7455788381247581705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_Play
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 2581
+        width: 198
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6520970a07315fb90800000000000000
+      internalID: -7208834254087060906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavender_PlayNoBG
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 2431
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff24735e06d26470800000000000000
+      internalID: 8386500813135294459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_WideTall
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2162
+        width: 559
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b709be5373a1cdd0800000000000000
+      internalID: -2467511404916570190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_MidTall
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2165
+        width: 389
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5ca863ce7384100800000000000000
+      internalID: 92385280027968987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_ThinTall
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 2169
+        width: 246
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483a7b27ecaae59b0800000000000000
+      internalID: -5089442725217459324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_PlayNoBG
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 2214
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a92b28222f90970800000000000000
+      internalID: 8721768383415228986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_WideMid
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1922
+        width: 559
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e75ef2b9ebecd50800000000000000
+      internalID: 6759549664462470656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_MidMid
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1925
+        width: 389
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bace599a8bbb6f0800000000000000
+      internalID: -667737081230087308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_ThinMid
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1928
+        width: 246
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54afeafccde380c70800000000000000
+      internalID: 8937462578614827589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_PlayNoBG
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 1996
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edb5228cbe1d35d0800000000000000
+      internalID: -3081272775065354781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_WideShort
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1735
+        width: 559
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf53519b754093c40800000000000000
+      internalID: 5492425995368871420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_MidShort
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1739
+        width: 389
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e028bd3e1c11285c0800000000000000
+      internalID: -4214786776816188914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_ThinShort
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1742
+        width: 246
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0c2c504602e6fb0800000000000000
+      internalID: -4652745751061675807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_WideTall
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1353
+        width: 560
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f7c1bd9e1b8c820800000000000000
+      internalID: 2938794374820822864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_MidTall
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1356
+        width: 391
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609e6bfa4b22bed60800000000000000
+      internalID: 7920462529098606854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_ThinTall
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1359
+        width: 247
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ff573d0eded9400800000000000000
+      internalID: 332683497371467529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_WideMid
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1113
+        width: 560
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc30c56f5526e020800000000000000
+      internalID: 2370623345516362972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_MidMid
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1116
+        width: 391
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4b93f64bc630620800000000000000
+      internalID: 2739152520587359478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_ThinMid
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1119
+        width: 247
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48482ef648f4b32c0800000000000000
+      internalID: -4450876376494209916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_WideShort
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 926
+        width: 560
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c440ee4761ee880800000000000000
+      internalID: -8579895548628939775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_MidShort
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 929
+        width: 391
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddaf946d2eaa7f80800000000000000
+      internalID: -8107976669142209063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_ThinShort
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 933
+        width: 247
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0674ea78cabf92320800000000000000
+      internalID: 2533832983801907040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progressBar1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 552
+        width: 1269
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b144919dbc065dd80800000000000000
+      internalID: -8226562715685403621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progressBar2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 229
+        width: 1269
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813d4d1cab7bc5b80800000000000000
+      internalID: -8404640791836437736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavender_HamburgerNoBG
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2447
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa5112f7111fa5e0800000000000000
+      internalID: -1896278123556545795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_HamburgerNoBG
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2229
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a9e44c6645fcea0800000000000000
+      internalID: -5850364590574101979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_HamburgerNoBG
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2010
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5241649de7ee34ee0800000000000000
+      internalID: -1277915640664550363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavender_PauseNoBG
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2431
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b939524e47c56f0800000000000000
+      internalID: -694551719290102937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_PauseNoBG
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1996
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7952e0fb52e35600800000000000000
+      internalID: 455956871805819263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_PauseNoBG
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2214
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae56380e73de0920800000000000000
+      internalID: 2958534543486115496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

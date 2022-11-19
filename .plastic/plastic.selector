@@ -1,0 +1,4 @@
+repository "FishCollector2022@Programmers_of_Great_Skill@cloud"
+  path "/"
+    br "/main"
+    co "/main"

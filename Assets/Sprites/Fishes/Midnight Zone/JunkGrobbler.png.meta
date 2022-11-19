@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 3a4ca58b9f7798644a7da0f0007cb0f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4974311708519888035
+    second: JunkGrobbler_0
+  - first:
+      213: -7535860156750364188
+    second: JunkGrobbler_1
+  - first:
+      213: -2289084517007227501
+    second: JunkGrobbler_3
+  - first:
+      213: -1687077978002543509
+    second: GrobSwim3
+  - first:
+      213: -3761941793206129509
+    second: GrobSwim4
+  - first:
+      213: 3581084048744557225
+    second: GrobAttack2
+  - first:
+      213: -4266146559921913126
+    second: atk2
+  - first:
+      213: -71631948755162393
+    second: atk1
+  - first:
+      213: -2024831800578051772
+    second: JunkGrobbler_2
+  - first:
+      213: 674550570477564869
+    second: JunkGrobbler_4
+  - first:
+      213: -6381084332637724693
+    second: atk3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JunkGrobbler_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2009
+        width: 508
+        height: 826
+      alignment: 9
+      pivot: {x: 0.35722002, y: 0.8871606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4f464d42e480540800000000000000
+      internalID: 4974311708519888035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JunkGrobbler_1
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2559
+        width: 509
+        height: 810
+      alignment: 9
+      pivot: {x: 0.35264915, y: 0.8857265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e100e73d1f3b6790800000000000000
+      internalID: -7535860156750364188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JunkGrobbler_3
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1570
+        width: 510
+        height: 742
+      alignment: 9
+      pivot: {x: 0.35401636, y: 0.8782143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39500f682c98b30e0800000000000000
+      internalID: -2289084517007227501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk2
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 283
+        width: 508
+        height: 810
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad289188e4a9bc4c0800000000000000
+      internalID: -4266146559921913126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk1
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 267
+        width: 508
+        height: 826
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea21e34f13810ff0800000000000000
+      internalID: -71631948755162393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JunkGrobbler_2
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 2552
+        width: 506
+        height: 814
+      alignment: 9
+      pivot: {x: 0.35553873, y: 0.88706875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44171a4943a56e3e0800000000000000
+      internalID: -2024831800578051772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JunkGrobbler_4
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1535
+        width: 508
+        height: 780
+      alignment: 9
+      pivot: {x: 0.35085532, y: 0.8849334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c33a508b2c7c5900800000000000000
+      internalID: 674550570477564869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 304
+        width: 517
+        height: 768
+      alignment: 9
+      pivot: {x: 0.5299906, y: 0.5089731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef515f9b95d177a0800000000000000
+      internalID: -6381084332637724693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
